@@ -1,0 +1,39 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.world_records p{
+    font-size:20px;
+
+}
+.world_records{
+    border:2px solid blue;
+        border-radius:5px;
+}
+.movie-header{
+    font-size:20px;
+    margin-bottom:10px;
+    padding:6px;
+    width:100%;
+    display:inline-block;
+    border-radius:10px;
+}
+.review span{
+color:coral;
+}
+.movie-header i{
+    float:right
+}
